@@ -1,0 +1,3 @@
+/home/lucasp/Documentos/proj_dsl/tarefa_01_cg/build/CMakeFiles/esfera.dir
+/home/lucasp/Documentos/proj_dsl/tarefa_01_cg/build/CMakeFiles/edit_cache.dir
+/home/lucasp/Documentos/proj_dsl/tarefa_01_cg/build/CMakeFiles/rebuild_cache.dir

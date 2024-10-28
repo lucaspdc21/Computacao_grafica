@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/esfera.dir/main.cpp.o CMakeFiles/esfera.dir/src/Sphere.cpp.o CMakeFiles/esfera.dir/src/Vector.cpp.o CMakeFiles/esfera.dir/src/Canvas.cpp.o CMakeFiles/esfera.dir/src/Display.cpp.o CMakeFiles/esfera.dir/src/Ray.cpp.o -o esfera  /usr/lib/x86_64-linux-gnu/libSDL2.so 
